@@ -18,8 +18,10 @@
 ```
 * DocumentTypes参数可以筛选自己需要的文件类型，可以参考下边这张图：
 <img src="https://developer.apple.com/library/ios/documentation/FileManagement/Conceptual/understanding_utis/art/conformance_hierarchy.gif" width="50%" height="50%">
+
 # 效果预览：
 一行代码实现文件选择，简洁方便
+
 # 其他：
 * 自由开发者交流群：811483008
 * <a href="https://www.jianshu.com/p/48f2d016e80e">简书</a>
