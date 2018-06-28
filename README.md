@@ -20,7 +20,7 @@
 <img src="https://developer.apple.com/library/ios/documentation/FileManagement/Conceptual/understanding_utis/art/conformance_hierarchy.gif" width="50%" height="50%">
 
 # 效果预览：
-<img src="http://code.cocoachina.com/uploads/attachments/20180627/137322/784b6a2d28361433468d8bfd2adce719.gif" width="30%" height="30%">
+<img src="http://www.code4app.com/data/attachment/forum/201806/28/141337qnmsi0qqt9myo0my.gif" width="30%" height="30%">
 一行代码实现文件选择，简洁方便
 
 # 其他：
